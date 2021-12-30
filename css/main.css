@@ -1387,6 +1387,10 @@ textarea, label {
   height: 100%;
 }
 
+.clickable{
+  cursor: pointer;
+}
+
 /*------------------------------------------------
 	Responsive Media Queries
 -------------------------------------------------*/
